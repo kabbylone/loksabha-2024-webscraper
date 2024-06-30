@@ -27,5 +27,20 @@ To set up the project locally, follow these steps:
    pip install -r requirements.txt
 
 ## Data Analysis Insights
+### Charts
+1. **Seats won by each Party in each State**
 
+![Statewise](images/statewise.png)
+
+2. **Total Number of seatc won by each Party**
+
+![Parties](images/parties.png)
+
+3. **Proportion of seats won by the Top 10 Parties**
+
+![TopTen](images/topten.png)
+ 
+4. **Bye-Elections won by each Party**
+
+![Byes](images/byes.png)
 
