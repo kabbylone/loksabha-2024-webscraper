@@ -7,12 +7,9 @@ This project focuses on web scraping data from the 2024 Lok Sabha Elections resu
 - [Project Title (e.g., 2024 Lok Sabha Elections Data Analysis)](#2024-lok-sabha-elections-data-analysis)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
-  - [Project Structure](#project-structure)
   - [Setup Instructions](#setup-instructions)
   - [Data Analysis Insights](#data-analysis-insights)
 
-## Project Structure
-The project directory structure is organized as follows:
 
 ## Setup Instructions
 To set up the project locally, follow these steps:
