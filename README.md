@@ -3,6 +3,10 @@
 ## Overview
 This project focuses on web scraping data from the 2024 Lok Sabha Elections results on [Election Commission of India's website](https://results.eci.gov.in/) using Scrapy. The scraped data is analyzed using Matplotlib, Seaborn, and Pandas to derive insights about the election outcomes.
 
+For a detailed report see my [Power BI Report](analysis-report.pbix), or go to [Data Analysis Insights](#data-analysis-insights).
+
+![PBI Report](images/pbix.png)
+
 ## Table of Contents
 - [Project Title (e.g., 2024 Lok Sabha Elections Data Analysis)](#2024-lok-sabha-elections-data-analysis)
   - [Overview](#overview)
