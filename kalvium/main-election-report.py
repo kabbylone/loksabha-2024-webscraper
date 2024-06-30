@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-with open('spiders\main-election.json', 'r') as file:
+with open('kalvium/spiders/main-election.json', 'r') as file:
     json_data = json.load(file)
 
 df = pd.DataFrame(json_data)
