@@ -8,7 +8,7 @@ For a detailed report see my [Power BI Report](analysis-report.pbix), or go to [
 ![PBI Report](images/pbix.png)
 
 ## Table of Contents
-- [2024 Lok Sabha Elections Web Scraper + Data Analysis)](#2024-lok-sabha-elections-data-analysis)
+- [2024 Lok Sabha Elections Web Scraper + Data Analysis](#2024-lok-sabha-elections-data-analysis)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Setup Instructions](#setup-instructions)
@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
 
 ![Statewise](images/statewise.png)
 
-2. **Total Number of seatc won by each Party**
+2. **Total Number of seats won by each Party**
 
 ![Parties](images/parties.png)
 
