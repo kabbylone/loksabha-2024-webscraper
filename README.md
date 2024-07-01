@@ -8,7 +8,7 @@ For a detailed report see my [Power BI Report](analysis-report.pbix), or go to [
 ![PBI Report](images/pbix.png)
 
 ## Table of Contents
-- [Project Title (e.g., 2024 Lok Sabha Elections Data Analysis)](#2024-lok-sabha-elections-data-analysis)
+- [2024 Lok Sabha Elections Web Scraper + Data Analysis)](#2024-lok-sabha-elections-data-analysis)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Setup Instructions](#setup-instructions)
